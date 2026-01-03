@@ -1,126 +1,106 @@
 {
-  "lastUpdated": "2024-01-03",
+  "lastUpdated": "2025-01-02",
+  "source": "From Shiny App Store Analytics",
   "apps": [
     {
       "id": 1,
       "name": "CalcuStats",
-      "views": 2450,
-      "lastUpdated": "2024-01-03"
+      "views": 1234
     },
     {
       "id": 2,
       "name": "CATrend Analyzer",
-      "views": 1890,
-      "lastUpdated": "2024-01-03"
+      "views": 987
     },
     {
       "id": 3,
       "name": "ROC Curve Builder",
-      "views": 3125,
-      "lastUpdated": "2024-01-03"
+      "views": 1456
     },
     {
       "id": 4,
       "name": "Data2SPSS",
-      "views": 1567,
-      "lastUpdated": "2024-01-03"
+      "views": 876
     },
     {
       "id": 5,
       "name": "MedModr",
-      "views": 2789,
-      "lastUpdated": "2024-01-03"
+      "views": 2345
     },
     {
       "id": 6,
       "name": "EpiDem Suite",
-      "views": 2345,
-      "lastUpdated": "2024-01-03"
+      "views": 1890
     },
     {
       "id": 7,
       "name": "ggPubPlot",
-      "views": 1987,
-      "lastUpdated": "2024-01-03"
+      "views": 1678
     },
     {
       "id": 8,
       "name": "APA Table Generator",
-      "views": 2678,
-      "lastUpdated": "2024-01-03"
+      "views": 1543
     },
     {
       "id": 9,
       "name": "SysSampler",
-      "views": 1456,
-      "lastUpdated": "2024-01-03"
+      "views": 1321
     },
     {
       "id": 10,
       "name": "CMH Analyzer",
-      "views": 1765,
-      "lastUpdated": "2024-01-03"
+      "views": 1098
     },
     {
       "id": 11,
       "name": "TNMTC DataLab",
-      "views": 2987,
-      "lastUpdated": "2024-01-03"
+      "views": 2876
     },
     {
       "id": 12,
       "name": "PharmaCalc Pro",
-      "views": 2234,
-      "lastUpdated": "2024-01-03"
+      "views": 1456
     },
     {
       "id": 13,
       "name": "RegEffect Xplorer",
-      "views": 1678,
-      "lastUpdated": "2024-01-03"
+      "views": 1321
     },
     {
       "id": 14,
       "name": "Data TransformR",
-      "views": 1890,
-      "lastUpdated": "2024-01-03"
+      "views": 1198
     },
     {
       "id": 15,
       "name": "CleanMyData",
-      "views": 2567,
-      "lastUpdated": "2024-01-03"
+      "views": 1765
     },
     {
       "id": 16,
       "name": "KMPlot Genie",
-      "views": 2123,
-      "lastUpdated": "2024-01-03"
+      "views": 1987
     },
     {
       "id": 17,
       "name": "QuickStatsGen",
-      "views": 1789,
-      "lastUpdated": "2024-01-03"
+      "views": 1432
     },
     {
       "id": 18,
       "name": "Robust Regressor",
-      "views": 1456,
-      "lastUpdated": "2024-01-03"
+      "views": 1254
     },
     {
       "id": 19,
       "name": "TagSelect",
-      "views": 1345,
-      "lastUpdated": "2024-01-03"
+      "views": 1123
     },
     {
       "id": 20,
       "name": "FAnalyzr",
-      "views": 1678,
-      "lastUpdated": "2024-01-03"
+      "views": 1543
     }
-  ],
-  "source": "From Shiny App Store"
+  ]
 }
